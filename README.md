@@ -10,8 +10,9 @@ In this repository, the emphasis has been on code implementation, and for a more
 ## Project Overview
 * The start date of this project is Thursday, October 27, 2023.
 * This project has two main goals:
-    1. Achieving the highest level on Baekjoon (Ruby) within 6 months. (I'm currently Silver 5 🥹)
-    2. Daily study of algorithms and documenting the content in this repository.
+    1. Study PyTorch consistently every day.
+    2. Proficient handling of PyTorch without referring to books or posts.
+        * Don't be overwhelmed when looking at PyTorch example codes on the internet.😂😂
 * Content is organized in Jupyter notebook format, combining both code and explanations.
 * We use Python (version 3.9.16) as the primary programming language, and any necessary libraries will be introduced on the respective pages.
 
