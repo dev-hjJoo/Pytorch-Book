@@ -3,7 +3,9 @@ Summary of Deep Learning and Pytorch framework.
 In this repository, the emphasis has been on code implementation, and for a more detailed explanation of the concepts, please refer to the Notion page ([link](https://hyoz.notion.site/fb348b39908e4170aeefbb7f492bb2f5?v=a56b8059eb674dc08e11d269b6286a74&pvs=4)).
 
 ## Table of Contents
-1. Implementing a basic classification and regression model
+### 01. MachineLearning
+* 01_basic_classification.ipynb
+
 
 ## Project Overview
 * The start date of this project is Thursday, October 27, 2023.
