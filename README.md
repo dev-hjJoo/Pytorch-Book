@@ -1,6 +1,6 @@
 # Pytorch Book
 Summary of Deep Learning and Pytorch framework.
-In this repository, the emphasis has been on code implementation, and for a more detailed explanation of the concepts, please refer to the Notion page ([link](https://hyoz.notion.site/fb348b39908e4170aeefbb7f492bb2f5?v=a56b8059eb674dc08e11d269b6286a74&pvs=4)).
+In this repository, the emphasis has been on code implementation, and for a more detailed explanation of the concepts, please refer to the Notion page ([link](https://hyoz.notion.site/AI-ML-Dictionary-dd86b74884bb41eeb7493dd929f39d98?pvs=4)).
 
 ## Table of Contents
 ### 01. MachineLearning
